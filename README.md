@@ -52,9 +52,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## Authors
 
-* **Travis A. Stevenson (mrslaughter1775)** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Travis A. Stevenson (mrslaughter1775)** - *Developer* - [mrslaughter1775] (https://github.com/mrslaughter1775)
 
 ## License
 
