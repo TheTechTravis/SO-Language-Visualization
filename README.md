@@ -1,6 +1,6 @@
 # Stack Overflow Programming Language Visualization
 
-  This is a data visualization program that takes information (tag names and number of times each tag is used) from Stack Overflow's data dump, cross references it with a list of programming languages from Wikipedia, finds the results that are on both lists. The common items are then sorted to find the tags which are most frequently used on Stack Overflow, and the top 10 results are displayed in a pie chart. This is valuable information because it shows which programming languages are most frequently tagged on Stack Overflow posts, which can help us understand which languages are most common.
+This is a data visualization program that takes information (tag names and number of times each tag is used) from Stack Overflow's data dump, cross references it with a list of programming languages from Wikipedia, finds the results that are on both lists. The common items are then sorted to find the tags which are most frequently used on Stack Overflow, and the top 10 results are displayed in a pie chart. This is valuable information because it shows which programming languages are most frequently tagged on Stack Overflow posts, which can help us understand which languages are most common.
 
 ## Getting Started
 
@@ -22,7 +22,7 @@ six==1.11.0
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
+A step by step series of examples that tell you how to get a development env running will be included, if requested.
 
 Say what the step will be
 
@@ -38,47 +38,21 @@ until finished
 
 End with an example of getting some data out of the system or using it for a little demo
 
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
 ## Deployment
 
 Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Matplotlib](https://matplotlib.org/) - A Python 2D plotting library
 
 ## Contributing
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Travis A. Stevenson (mrslaughter1775)** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
