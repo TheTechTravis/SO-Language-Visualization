@@ -1,6 +1,6 @@
-# Project Title
+# Stack Overflow Programming Language Visualization
 
-This is a data visualization program that takes information (tag names and number of times each tag is used) from Stack Overflow's data dump, cross references it with a list of programming languages from Wikipedia, finds the results that are on both lists. The common items are then sorted to find the tags which are most frequently used on Stack Overflow, and the top 10 results are displayed in a pie chart. This is valuable information because it shows which programming languages are most frequently tagged on Stack Overflow posts, which can help us understand which languages are most common.
+  This is a data visualization program that takes information (tag names and number of times each tag is used) from Stack Overflow's data dump, cross references it with a list of programming languages from Wikipedia, finds the results that are on both lists. The common items are then sorted to find the tags which are most frequently used on Stack Overflow, and the top 10 results are displayed in a pie chart. This is valuable information because it shows which programming languages are most frequently tagged on Stack Overflow posts, which can help us understand which languages are most common.
 
 ## Getting Started
 
