@@ -8,10 +8,16 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+Below is the list of software I used during the development process. I will include installation instructions in the future, if requested.
 
 ```
-Give examples
+cycler==0.10.0
+kiwisolver==1.0.1
+matplotlib==3.0.0
+numpy==1.15.2
+pyparsing==2.2.2
+python-dateutil==2.7.3
+six==1.11.0
 ```
 
 ### Installing
